@@ -1,0 +1,104 @@
+body{
+    font-family: Roboto;
+    p{
+        color: #505F98;
+    }
+    h3{
+        color: #37447E; 
+    }
+}
+.img {
+    position: absolute;
+    z-index: 1; 
+    width: 1490.03px;
+    height: 1161px;
+    top: -49px;
+    left: 417.29px;
+    opacity: 0.5;
+
+  }
+  .bimage{
+    background-image: url(photos/Path.svg);
+    background-size:100% ;
+    background-repeat: no-repeat;
+    
+
+  }
+  .lowerbimage{
+    background-image: url(photos/Rectangle.svg);
+    background-size: 100% ;
+    background-repeat: no-repeat;
+
+ 
+
+
+
+  }
+  /* navBar */
+  .navBar{
+  
+    
+
+    .home{
+        width: 245px;
+        height: 24px;
+        p{  
+            color: #505F98;
+            font-size: 14px;
+            font-weight: 400;
+            line-height: 24px;
+            letter-spacing: 0px;
+            text-align: left;
+        }
+    }
+
+     
+  
+    button{
+        background-color: #111B47;
+        color: #FFFFFF;
+        width: 160px;
+        height: 26px;
+        border: transparent;
+
+    }
+    h3{
+        color: #37447E;
+        font-size: 26px;
+        font-weight: 900;
+        line-height: 38px;
+        letter-spacing: 0px;
+        text-align: left;
+
+
+    }
+  }
+  .group{
+    img{
+        width: 400px;
+        height: 602px;
+        margin-top: 100px;
+    
+      }
+  }
+  .purchase{
+ button{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+    color:#FFFFFF;
+    background-color: #091133;
+
+ }
+
+  }
+.footer{
+    background-color: #E7ECFF;
+ h6{
+    color: #939EA4;
+
+ }
+}
